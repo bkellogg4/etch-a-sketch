@@ -1,0 +1,7 @@
+body {
+    background-color: aquamarine;
+}
+.container {
+    display: flex;
+    background-color: rgb(153, 153, 235);
+}

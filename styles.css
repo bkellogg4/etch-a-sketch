@@ -1,7 +1,51 @@
 body {
     background-color: aquamarine;
 }
-.container {
+.row-one {
     display: flex;
     background-color: rgb(153, 153, 235);
+}
+.row-two {
+    display: flex;
+    background-color: blueviolet;
+}
+.row-three {
+    display: flex;
+    background-color: brown;
+}
+.row-four {
+    display: flex;
+    background-color: coral;
+}
+.row-five {
+    display: flex;
+    background-color: darkgoldenrod;
+}        
+.row-six {
+    display: flex;
+    background-color: darkolivegreen;
+}
+.row-seven {
+    display: flex;
+    background-color: darkgreen;
+}
+.row-eight {
+    display: flex;
+    background-color: darkslategrey;
+}
+.row-nine {
+    display: flex;
+    background-color: lemonchiffon;
+}
+.row-ten {
+    display: flex;
+    background-color: greenyellow;
+}
+.row-eleven {
+    display: flex;
+    background-color: darkmagenta;
+}
+.row-twelve {
+    display: flex;
+    background-color: hotpink;
 }
